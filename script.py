@@ -28,17 +28,17 @@ class  Script(object):
   
   HOW_USE_TXT = """<b><u>⚠️ Before Forwarding:</b></u>
 <b>► __add a bot or userbot__
-► __add atleast one to channel__ `(your bot/userbot must be admin in there)`
+► __add atleast one to channel__ `(your bot must be admin in there)`
 ► __You can add chats or bots by using /settings__
-► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
+► __Currently userbot feature not working__
 ► __Then use /forward to forward messages__"""
   
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ᴀᴍᴀɴɪ](https://t.me/MSLANDERS)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴍsʟᴀɴᴅᴇʀs](https://AMANI_JII)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ᴀᴍᴀɴɪ](https://t.me/mslanderstalk_bot)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴍsʟᴀɴᴅᴇʀs](https://mslanders)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴀʟʟ ᴡᴇʙ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 ║┣⪼📚Lɪʙʀᴀʀʏ : ʜɪɴᴅɪ ᴇɴɢ
